@@ -1,0 +1,11 @@
+D:\Coding\IP段转静态路由脚本\IP2ROUTER\IP2ROUTER\bin\Debug\IP2ROUTER.exe.config
+D:\Coding\IP段转静态路由脚本\IP2ROUTER\IP2ROUTER\bin\Debug\IP2ROUTER.exe
+D:\Coding\IP段转静态路由脚本\IP2ROUTER\IP2ROUTER\bin\Debug\IP2ROUTER.pdb
+D:\Coding\IP段转静态路由脚本\IP2ROUTER\IP2ROUTER\obj\Debug\IP2ROUTER.csproj.AssemblyReference.cache
+D:\Coding\IP段转静态路由脚本\IP2ROUTER\IP2ROUTER\obj\Debug\IP2ROUTER.csproj.SuggestedBindingRedirects.cache
+D:\Coding\IP段转静态路由脚本\IP2ROUTER\IP2ROUTER\obj\Debug\IP2ROUTER.Form1.resources
+D:\Coding\IP段转静态路由脚本\IP2ROUTER\IP2ROUTER\obj\Debug\IP2ROUTER.Properties.Resources.resources
+D:\Coding\IP段转静态路由脚本\IP2ROUTER\IP2ROUTER\obj\Debug\IP2ROUTER.csproj.GenerateResource.cache
+D:\Coding\IP段转静态路由脚本\IP2ROUTER\IP2ROUTER\obj\Debug\IP2ROUTER.csproj.CoreCompileInputs.cache
+D:\Coding\IP段转静态路由脚本\IP2ROUTER\IP2ROUTER\obj\Debug\IP2ROUTER.exe
+D:\Coding\IP段转静态路由脚本\IP2ROUTER\IP2ROUTER\obj\Debug\IP2ROUTER.pdb
